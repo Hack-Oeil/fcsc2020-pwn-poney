@@ -12,7 +12,7 @@ Origine : [Poney](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-poney/)
 > http://localhost
 
 #### tentez 
-> nc armigo.cyrhades.com:4000
+> nc poney.cyrhades.com:4000
 
 
 -----------
